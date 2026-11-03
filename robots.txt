@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://verdant-bavarois-669c8f.netlify.app/sitemap.xml
